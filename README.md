@@ -1,2 +1,2 @@
-# ColorPicker_App
-Colorchanger
+# cromeExtension
+Colorchanger crome extension
